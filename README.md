@@ -38,3 +38,11 @@
 </div>
 
 ###
+
+
+<h3 align="center">🛠 Statistic</h3>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Paradiso&show_icons=true&theme=darcula&title_color=ff3b3b&text_color=cfcfcf&icon_color=ff3b3b&border_color=ff3b3b&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Paradiso&layout=compact&theme=darcula&title_color=ff3b3b&text_color=cfcfcf&border_color=ff3b3b&icon_color=ff3b3b"/>
+</p>
